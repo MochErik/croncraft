@@ -12,7 +12,7 @@
 ## 🚀 Quick Install
 
 ```bash
-pip install croncraft
+pip install git+https://github.com/MochErik/croncraft.git
 ```
 
 ---
